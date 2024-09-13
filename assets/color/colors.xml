@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="lavender_mist">#DFEAF2</color>
+    <color name="metallic_silver">#BDC6CC</color>
+
+    <color name="primary_color">#3F9FF8</color>
+    <color name="secondary_color">#D9EDE1</color>
+
+    <color name="rhino">#343C6A</color>
+    <color name="nobel">#B1B1B1</color>
+    <color name="blue">#3F9FF8</color>
+    <color name="wild_blue">#718EBF</color>
+
+</resources>

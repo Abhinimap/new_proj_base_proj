@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nimapinfotech.engagetrivia",
+      "sha256_cert_fingerprints": [
+        "68:72:A4:D7:B3:D4:A1:B6:50:05:10:1B:F9:37:FE:57:C6:5E:F3:C5:71:92:1A:C5:D2:C4:7C:AF:9B:B5:2D:DC"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nimapinfotech.engagetrivia",
+      "sha256_cert_fingerprints": [
+        "FA:7F:D2:DA:B0:1F:97:D5:9C:BC:FA:F2:35:07:33:20:49:6A:65:B3:14:D2:FD:42:82:2A:14:6C:58:62:44:A2"
+      ]
+    }
+  }
+]
